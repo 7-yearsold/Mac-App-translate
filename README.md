@@ -8,4 +8,4 @@ Mac 软件汉化
 
 ## 许可
 
-[MIT License](https://github.com/7-yearsold/Mac-App-translate/LICENSE)
+[MIT License][(https://github.com/7-yearsold/Mac-App-translate/LICENSE)](https://github.com/7-yearsold/Mac-App-translate/blob/main/LICENSE)
