@@ -1,5 +1,6 @@
 # Mac-App-translate
 Mac 软件汉化
+自用 & 备份
 
 ## 感谢
 
